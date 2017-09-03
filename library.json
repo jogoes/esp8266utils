@@ -1,0 +1,16 @@
+{
+    "name": "ESP8266Utils",
+    "keywords": "esp8266, utils",
+    "description": "A utility library for ESP8266",
+    "authors":
+    {
+        "name": "NA",
+    },
+    "dependencies":
+    {
+        "frameworks": "arduino"
+    },
+    "version": "0.1",
+    "frameworks": "arduino",
+    "platforms": "nodemcuv2"
+}
