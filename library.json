@@ -6,10 +6,6 @@
     {
         "name": "NA"
     },
-    "dependencies":
-    {
-        "frameworks": "arduino"
-    },
     "repository": {
         "type" : "git",
         "url" : "https://github.com/jogoes/esp8266utils.git"
