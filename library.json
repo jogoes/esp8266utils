@@ -11,6 +11,5 @@
         "url" : "https://github.com/jogoes/esp8266utils.git"
     },
     "version": "0.1",
-    "frameworks": "arduino",
     "platforms": "nodemcuv2"
 }
