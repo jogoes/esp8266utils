@@ -4,11 +4,15 @@
     "description": "A utility library for ESP8266",
     "authors":
     {
-        "name": "NA",
+        "name": "NA"
     },
     "dependencies":
     {
         "frameworks": "arduino"
+    },
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/jogoes/esp8266utils.git"
     },
     "version": "0.1",
     "frameworks": "arduino",
